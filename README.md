@@ -1,4 +1,6 @@
 # Geoelectricspy
+![ezgif-1-3c5033177d](https://github.com/aradfarahani/Geoelectricspy/assets/90475349/9932c675-414d-449e-84cf-e7ba028f8d93)
+
 ![ezgif-1-1ae2f5b3b6](https://github.com/aradfarahani/Geoelectricspy/assets/90475349/c50e75e7-99d3-48a2-8051-0eb5d20cf24f)
 
 ## Overview
