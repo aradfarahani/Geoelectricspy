@@ -4,7 +4,7 @@
 
 ![ezgif-1-3c5033177d](https://github.com/aradfarahani/Geoelectricspy/assets/90475349/9932c675-414d-449e-84cf-e7ba028f8d93)
 
-
+ 
 ## Overview
 This project presents an interactive 3D visualization of subsurface resistivity using geoelectric data. It utilizes Python and its scientific libraries to process and visualize the data across multiple depths, ranging from 1 meter to 464 meters.
 
