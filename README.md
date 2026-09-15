@@ -9,7 +9,7 @@
 This project presents an interactive 3D visualization of subsurface resistivity using geoelectric data. It utilizes Python and its scientific libraries to process and visualize the data across multiple depths, ranging from 1 meter to 464 meters.
 
 ## Features
-- Data manipulation with `pandas`
+- Data manipulation with `pandas` 
 - Numerical operations with `numpy`
 - 3D plotting with `matplotlib`
 - Cubic interpolation with `scipy`
