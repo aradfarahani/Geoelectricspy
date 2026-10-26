@@ -14,7 +14,7 @@ This project presents an interactive 3D visualization of subsurface resistivity 
 - 3D plotting with `matplotlib`
 - Cubic interpolation with `scipy`
   
-## Usage
+## Usage 
 Load the data from an Excel file and run the script to generate the 3D visualization. The interactive plot allows for rotation and zooming to explore different layers of resistivity.
 ## Data
 The data is stored in ‘processed-data.xlsx’, which contains the X, Y coordinates and resistivity values for various depth
