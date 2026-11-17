@@ -1,4 +1,4 @@
-# Geoelectricspy
+# Geoelectricspy 
 [![CodeFactor](https://www.codefactor.io/repository/github/aradfarahani/geoelectricspy/badge)](https://www.codefactor.io/repository/github/aradfarahani/geoelectricspy)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10966815.svg)](https://doi.org/10.5281/zenodo.10966815)
  
